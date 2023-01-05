@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Downloads\New folder (2)\bin\Debug\WinActivator X.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (2)\bin\Debug\WinActivator X.exe
+C:\Users\MONSTERMC\Downloads\New folder (2)\bin\Debug\WinActivator X.pdb
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator X.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator_X.Common.RestartPrompt.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator_X.MainWindow.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator X.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator X.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator X.vbproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator X.exe
+C:\Users\MONSTERMC\Downloads\New folder (2)\obj\Debug\WinActivator X.pdb
